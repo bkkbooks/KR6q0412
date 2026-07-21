@@ -19,13 +19,13 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0412_000-J.yaml, hash: 'sha256:48c9cb7fa3aee322214d33be60ce3b6a6f75377ba6e3d4bf5a64705264dc3b81'}
+  - {seq: 0, filename: KR6q0412_000-J.yaml, hash: 'sha256:eaaf180c8fc6d6900a54d9ab8aa2cb58d9840db1201335674eaa6adb75591477'}
   - {seq: 1, filename: KR6q0412_001-J.yaml, hash: 'sha256:ce8c69730943710abc4a54b27927a41dc6b852e262b351229accfae49508fdd3'}
   - {seq: 2, filename: KR6q0412_002-J.yaml, hash: 'sha256:28b7850466a1b7b9a65bc01c2b0ec3c0ac69425963d29b18c497cf5cc6eae072'}
   - {seq: 3, filename: KR6q0412_003-J.yaml, hash: 'sha256:6a75a8af0a65b824ea096438a965f334f0743b4a8b47fe5a19d0b0f44f26a992'}
   - {seq: 4, filename: KR6q0412_004-J.yaml, hash: 'sha256:a5307fb4b29f266d80c866f4f1ed4536525a10cfccd8f3cc1ef50f4ea7426eef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0412_000-J.markers.yaml, hash: 'sha256:92c48dfcdedafee4331d6e3c4460b2e10881f95e2a7d76340e5f7bf421bac7d7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0412_000-J.markers.yaml, hash: 'sha256:b063861562741471ba5c2f212d4443ad45dfc30c1e4c737f1e0a09b0b0710d76'}
   - {seq: 1, role: markers, filename: assets/KR6q0412_001-J.markers.yaml, hash: 'sha256:b9b164d57974627ac3b92b598b5e9472f4b8bb184b15ffd05512e05d68baf87f'}
   - {seq: 2, role: markers, filename: assets/KR6q0412_002-J.markers.yaml, hash: 'sha256:c64264f78d4c83edde4beee594f00f69638eef92a55913f6f1ac1ea3dc706e2f'}
   - {seq: 3, role: markers, filename: assets/KR6q0412_003-J.markers.yaml, hash: 'sha256:60e01f50f6667639061ac21369f18da25c2c9badb825e236026bf4e9f2f2390f'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0412_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 囑刻象田語錄序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0412_J_000-mulu-2
     span:
-    - front
+    - body
     - 7
     - 7
   label: 敬贈　即念大師序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0412_J_000-mulu-3
     span:
-    - front
+    - body
     - 14
     - 14
   label: 象田即念禪師語錄目次
@@ -1011,4 +1011,4 @@ table_of_contents:
   label: 種茶
   type: mulu
   level: 1
-hash: sha256:c27272c250dc9f4ec40f07508e8d7c8a4393ed0fe6dea440cca88ebda78d2fc2
+hash: sha256:90ecb5b920dc528d2c60808f7101f36ca18173fdbd394438e6907a771ea5c999

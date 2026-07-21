@@ -1,15 +1,12 @@
 canonical_identifier: bkk:krp/KR6q0412/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 囑刻象田語録序敬贈即念大師序象田即念禪師語録目次卷一小參示衆秉佛示做工夫要語卷二頌古問答機緣雜著卷三室中漫言卷四山居詩關居詩雜詠
   hash: sha256:f174a0887e70ffbb90e11a12ea47fafd2a3777fe2969e58cf54cd31bb0e0d309
   markers:
   - {type: 序, offset: 0, content: 囑刻象田語錄序, id: KR6q0412_J_000-mulu-1, level: '1'}
   - {type: 序, offset: 7, content: 敬贈　即念大師序, id: KR6q0412_J_000-mulu-2, level: '1'}
   - {type: 其他, offset: 14, content: 象田即念禪師語錄目次, id: KR6q0412_J_000-mulu-3, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 象田即念禪師語錄
   edition:
@@ -18,4 +15,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J27/J27nB191.xml
     old_id: J27nB191
-hash: sha256:c721a50de352d5eee8f1ea34dcc273c199cf218c42294bcbc7cb7f956f9f4716
+hash: sha256:fc41dd5f10fc3ad2c337e9592cc5a1dcedd14edfe978edd36bdd82b55d158fba
